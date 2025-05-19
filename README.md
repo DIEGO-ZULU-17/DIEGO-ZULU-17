@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DIEGO-ZULU-17
+- 👀 I’m interested in Data Analyst and Basketball
+- 🌱 I’m currently learning in Platzi
+- 💞️ I’m looking to collaborate on project about sports
+- 📫 Reach me in diegozulu17@gmail.com 
+- ⚡ Fun fact: Basketball and NBA.
