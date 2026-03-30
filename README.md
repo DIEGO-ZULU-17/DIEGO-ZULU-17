@@ -13,11 +13,14 @@
 ## Vías de contacto
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiego-zuluaga%2F)
+www.linkedin.com/in/diego-zuluaga
 
 ### Commit Activity
 
+DIEGO-ZULU-17/DIEGO-ZULU-17
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DIEGO-ZULU-17/DIEGO-ZULU-17)
 
+DIEGO-ZULU-17/Platzi_Git_Github
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DIEGO-ZULU-17/Platzi_Git_Github)
 
 ### ¡GRACIAS!
