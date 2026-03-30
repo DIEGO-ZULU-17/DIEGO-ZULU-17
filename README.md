@@ -15,3 +15,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DIEGO-ZULU-17/DIEGO-ZULU-17)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DIEGO-ZULU-17/Platzi_Git_Github)
+
+### ¡GRACIAS!
