@@ -1,9 +1,13 @@
 # 👋 Hi, I’m @DIEGO-ZULU-17
 
 :computer: **Economista y Magíster en Gerencia de Proyectos**
+
 :pencil: **Científico de datos & Desarrollador de software**
+
 :eyeglasses: **Educación Financiera y Baloncesto**
+
 :oncoming_automobile: **Fan de la NBA y las inversiones en la bolsa de valores**
+
 :family: **Mi esposa y mis dos conejos**
 
 ## Vías de contacto
