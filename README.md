@@ -6,9 +6,9 @@
 :oncoming_automobile: **Fan de la NBA y las inversiones en la bolsa de valores**
 :family: **Mi esposa y mis dos conejos**
 
-### Vías de contacto
+## Vías de contacto
 
-![Website](https://img.shields.io/website?url=www.linkedin.com%2Fin%2Fdiego-zuluaga)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiego-zuluaga%2F)
 
 ### Commit Activity
 
