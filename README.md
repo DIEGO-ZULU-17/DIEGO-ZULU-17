@@ -25,11 +25,9 @@ DIEGO-ZULU-17/Platzi_Git_Github
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DIEGO-ZULU-17/Platzi_Git_Github)
 
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity--> 
+### ⚡ Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
 
 
 ### ¡GRACIAS!
