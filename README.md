@@ -27,14 +27,14 @@ DIEGO-ZULU-17/Platzi_Git_Github
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v.0.1.0](https://github.com/DIEGO-ZULU-17/Repo_Release_Curso_GitHub/releases/tag/v.0.1.0) in [DIEGO-ZULU-17/Repo_Release_Curso_GitHub](https://github.com/DIEGO-ZULU-17/Repo_Release_Curso_GitHub)<br>
-2. ⬆️ Pushed undefined commit(s) to [DIEGO-ZULU-17/curso_u_sabana_2026_1](https://github.com/DIEGO-ZULU-17/curso_u_sabana_2026_1)<br>
-3. ⬆️ Pushed undefined commit(s) to [DIEGO-ZULU-17/Repo_Release_Curso_GitHub](https://github.com/DIEGO-ZULU-17/Repo_Release_Curso_GitHub)<br>
+1. ⬆️ Pushed undefined commit(s) to [DIEGO-ZULU-17/Platzi_Git_Github](https://github.com/DIEGO-ZULU-17/Platzi_Git_Github)<br>
+2. ✌️ Released [v.0.1.0](https://github.com/DIEGO-ZULU-17/Repo_Release_Curso_GitHub/releases/tag/v.0.1.0) in [DIEGO-ZULU-17/Repo_Release_Curso_GitHub](https://github.com/DIEGO-ZULU-17/Repo_Release_Curso_GitHub)<br>
+3. ⬆️ Pushed undefined commit(s) to [DIEGO-ZULU-17/curso_u_sabana_2026_1](https://github.com/DIEGO-ZULU-17/curso_u_sabana_2026_1)<br>
 4. ⬆️ Pushed undefined commit(s) to [DIEGO-ZULU-17/Repo_Release_Curso_GitHub](https://github.com/DIEGO-ZULU-17/Repo_Release_Curso_GitHub)<br>
-5. ⬆️ Pushed undefined commit(s) to [DIEGO-ZULU-17/API_Python_Curso_GitHub](https://github.com/DIEGO-ZULU-17/API_Python_Curso_GitHub)<br>
+5. ⬆️ Pushed undefined commit(s) to [DIEGO-ZULU-17/Repo_Release_Curso_GitHub](https://github.com/DIEGO-ZULU-17/Repo_Release_Curso_GitHub)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Wednesday, May 6th, 2026, 1:28:53 AM
+Last Updated: Wednesday, May 6th, 2026, 1:25:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
